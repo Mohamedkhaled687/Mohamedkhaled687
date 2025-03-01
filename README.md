@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-500-yellow?style=for-the-badge" alt="Problems Solved"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-+500-yellow?style=for-the-badge" alt="Problems Solved"/>
 </p>
 
 
