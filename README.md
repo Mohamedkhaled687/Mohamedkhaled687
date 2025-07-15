@@ -5,7 +5,7 @@
 
 ### Reach me at 📫: ###
 <a href= "https://www.linkedin.com/in/mohammedkhaaledd/">
-  <img align="center" alt="Falguni @LinkedIN" height="1" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  <img align="center" alt="Falguni @LinkedIN" height="40" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>   
   <a href="mailto:mohamedkhaled47526@gmail.com">
   <img align="center" alt="Falguni @Mail" height="35" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
